@@ -1,0 +1,14 @@
+Build started at 2016-11-18T18:48:03.104095
+Python binary: c:\program files (x86)\python35-32\python.exe
+Python system: Windows
+The Meson build system
+Version: 0.36.0
+Source dir: F:\avian\classpath
+Build dir: F:\avian\classpath\build
+Build type: native build
+Project name: avian
+Native cpp compiler: c++ (gcc 6.2.0)
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Program javac found: YES (C:\Program Files\Java\jdk1.8.0_111\bin\javac.EXE)
+Build targets in project: 1
